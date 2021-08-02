@@ -1,5 +1,5 @@
 function array_max = absMax(array)
-% calculates absolute maximum value of first two dimensions of array,
+% Calculates absolute maximum value of first two dimensions of array,
 % assuming that channel and sample are fixed.
 
 absVal = abs(array);
